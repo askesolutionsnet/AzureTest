@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AbdulLCDBConnection-Web.config Connection String" description="AbdulLCDBConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=devscience.database.windows.net,1433;Initial Catalog=AbdulLCTestDB;Persist Security Info=False;User ID=Adeel;Password=mEssage4all;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Adeel\ Khan\\documents\\visual\ studio\ 2015\\Projects\\AbdulLCTest\\AbdulLCTest\.UI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AbdulLCDBConnection']/@connectionString" />
+  </parameter>
+  <parameter name="AbdulLCDBConnection_DatabasePublish-Web.config Connection String" description="AbdulLCDBConnection_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="AbdulLCDBConnection_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Adeel\ Khan\\documents\\visual\ studio\ 2015\\Projects\\AbdulLCTest\\AbdulLCTest\.UI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AbdulLCDBConnection_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

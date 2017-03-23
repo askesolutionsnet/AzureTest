@@ -1,0 +1,4 @@
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Models\bin\Debug\AbdulLCTest.Models.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Models\bin\Debug\AbdulLCTest.Models.pdb
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Models\obj\Debug\AbdulLCTest.Models.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Models\obj\Debug\AbdulLCTest.Models.pdb
